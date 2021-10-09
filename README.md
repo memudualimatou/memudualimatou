@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Memudu Alimatou Sadia Anike
+### Hi there, I'm Memudu Alimatou Sadia Anike 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=memudualimatou.visitor-badge)
+
 
 <!--
 **memudualimatou/memudualimatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
