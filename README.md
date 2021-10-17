@@ -4,9 +4,10 @@
 
 For any machine learning and deep learning related project you are at the Right Place !
 
-<a href=”linkedin.com/in/memudu-alimatou-sadia-542090194/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-                                                          
- <a href=”https://twitter.com/aniikeS">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+
+![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)
+
+
 
 
 <!--
