@@ -22,10 +22,10 @@ For any machine learning and deep learning related project you are at the **Righ
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=memudualimatou&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=memudualimatou&repo=github-readme-stats)](https://github.com/memudualimatou/github-readme-stats)
 
 
-[![sadia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=memudualimatou)]
+[![sadia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=memudualimatou)](https://github.com/memudualimatou/github-readme-stats)
 
 
 <!--
