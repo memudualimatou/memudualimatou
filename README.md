@@ -2,7 +2,18 @@
 
 ### I am a computer vision enginer and data scientist.
 
-For any machine learning and deep learning related project you are at the Right Place !
+
+
+- ⚡ Fun fact: I love Math, Programming, Data science and Movies
+- 🌱 I’m addicted to learning and growing every single day
+- 📫 How to reach me: 
+
+* [Memium](https://memudualimatou.medium.com/)
+* [LinkedIn](https://www.linkedin.com/in/memudu-alimatou-sadia-542090194/)
+
+
+For any machine learning and deep learning related project you are at the **Right Place !!!**
+
 
 
 ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)
