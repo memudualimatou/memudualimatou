@@ -1,4 +1,4 @@
-# Hi there, I'm Memudu Alimatou Sadia Anike 👋
+# Hi there, I'm Anike sadia👋
 
 ### I am a computer vision enginer and data scientist.
 
@@ -19,8 +19,7 @@ For any machine learning and deep learning related project you are at the **Righ
 ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memdudualimatou)](https://github.com/memdudualimatou/github-readme-stats)
 <!--
 **memudualimatou/memudualimatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
