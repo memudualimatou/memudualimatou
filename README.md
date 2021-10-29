@@ -10,6 +10,7 @@
 
     * [Medium](https://memudualimatou.medium.com/)
     * [LinkedIn](https://www.linkedin.com/in/memudu-alimatou-sadia-542090194/)
+    * [Twitter](https://twitter.com/aniikes?lang=en)
 
 
 For any machine learning and deep learning related project you are at the **Right Place !!!**
@@ -20,9 +21,9 @@ For any machine learning and deep learning related project you are at the **Righ
 ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memudualimatou&theme=radical&layout=compact)](https://github.com/memudualimatou/github-readme-stats)
 
 
+# 🧰 Toolbox
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=memudualimatou&repo=github-readme-stats)](https://github.com/memudualimatou/github-readme-stats)
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 
 <!--
