@@ -1,6 +1,6 @@
 # Hi there, I'm Anike sadia👋
 
-### I am a computer vision enginer and data scientist.
+##👩‍💻  I am a computer vision enginer and data scientist.
 
 
 
@@ -15,11 +15,19 @@
 For any machine learning and deep learning related project you are at the **Right Place !!!**
 
 
+#📈 Github's Stats
 
 ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memudualimatou)](https://github.com/memudualimatou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memudualimatou&theme=radical)](https://github.com/memudualimatou/github-readme-stats)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memudualimatou&theme=radical" />
+
+[![sadia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=memudualimatou)](https://github.com/memudualimatou/github-readme-stats)
+
+
 <!--
 **memudualimatou/memudualimatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
