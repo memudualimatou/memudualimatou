@@ -10,7 +10,7 @@
 
     * [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://memudualimatou.medium.com/)
     * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memudu-alimatou-sadia-542090194/)
-    * [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aniikes?lang=en)
+    * [![Twitter](https://img.shields.io/badge/aniikeS-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aniikes?lang=en)
     * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anikesadia01@gmail.com)
 
 
