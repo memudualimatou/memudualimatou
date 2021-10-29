@@ -8,8 +8,8 @@
 - 🌱 I’m addicted to learning and growing every single day
 - 📫 How to reach me: 
 
-* [Memium](https://memudualimatou.medium.com/)
-* [LinkedIn](https://www.linkedin.com/in/memudu-alimatou-sadia-542090194/)
+    * [Medium](https://memudualimatou.medium.com/)
+    * [LinkedIn](https://www.linkedin.com/in/memudu-alimatou-sadia-542090194/)
 
 
 For any machine learning and deep learning related project you are at the **Right Place !!!**
