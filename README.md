@@ -1,4 +1,4 @@
-# Hi there, I'm Anike sadia👋
+# Hi 👋, I'm Anike sadia
 
 ## 👩‍💻  I am a computer vision enginer and data scientist.
 
