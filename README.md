@@ -19,6 +19,8 @@ For any machine learning and deep learning related project you are at the **Righ
 
 ## 📈 Github's Stats
 
+From 15/03/2022
+
 ![](https://komarev.com/ghpvc/?username=memudualimatou)
 
 ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)  
