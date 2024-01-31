@@ -23,9 +23,9 @@ From 15/03/2022
 
 ![](https://komarev.com/ghpvc/?username=memudualimatou)
 
-![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)  
+<!-- ![sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=memudualimatou&show_icons=true&theme=radical)  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memudualimatou&theme=radical&layout=compact)](https://github.com/memudualimatou/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memudualimatou&theme=radical&layout=compact)](https://github.com/memudualimatou/github-readme-stats) -->
 
 
 ## 🧰 Toolbox & Frameworks
